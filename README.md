@@ -1,18 +1,18 @@
-#DiffieHelman Keyexchange System 
+# DiffieHelman Keyexchange System 
 
-PROJECT TITLE
+# PROJECT TITLE
 _ _ _ _ _ _ _ _ 
 IMPLEMENTATION OF DIFFIE HELMAN KEY EXCHANGE APPLICABLE TO AES ENCRYPTION IN ECB MODE USING
 UDP SOCKET
 
 
-PREREQUISITES
+# PREREQUISITES
 _ _ _ _ _ _ _ _
 1. A Python Integrated Development Environment (IDE)
 2. A Python Interpreter
 
 
-INSTALLATION REQUIREMENT
+# INSTALLATION REQUIREMENT
 _ _ _ _ _ _ _ _ _ _ _ _ 
 
 1. Install an interpreter (preferably anaconda
@@ -26,7 +26,7 @@ Linux:	  netstat -plnt | grep ':port number'
 
 
 
-FEATURES
+# FEATURES
 _ _  _  _  _
 1. A UDP socket with a dynamic port number (greater than 1023)
 2. A buffer size of 1024 bytes
@@ -41,7 +41,7 @@ _ _  _  _  _
 using varying message bytes size
 
 
-DEPLOYMENT
+# DEPLOYMENT
 _ _ _ _ _ _ 
 
 1. Open both project files with installed IDE
@@ -51,22 +51,19 @@ _ _ _ _ _ _
 5. Communication between both parties begins
 
 
-AUTHORS
+# AUTHORS
 _ _ _ _ _ 
 
 Bello Adesoji Tolulope 
 
-SUPPORT
+# SUPPORT
 _ _ _ _ _ _ _ _
 
-Should in case you are having issues with running the project, send an email to
-bello@mtu.edu
+Further questions should be directed to one of the following emails:
+1. bello@mtu.edu
+2. sojiadvanced@gmail.com
 
 
-ACKNOWLEDGMENT
-_ _ _ _ _ _ _ _ 
 
-I hereby use this medium to acknowledge the efforts of Dr Kit Cishchke who stood as a pillar of
-support during project development and willingly assisted in areas i experienced challenges.
 
 
